@@ -1,6 +1,6 @@
 {
   "name": "node-paging",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于nodejs的分页工具类",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Blueskybing/node-paging.git"
   },
   "keywords": [
-    "verify-value"
+    "node-paging"
   ],
   "author": "Blueskybing",
   "license": "ISC",
